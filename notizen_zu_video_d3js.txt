@@ -1,0 +1,10 @@
+
+
+
+- jsbin: IDE inside the webbrowser for webstuff.. d3.js
+- angular für responsive und interactivity
+
+- network diagram -> hive diagram besser
+
+https://www.youtube.com/watch?v=8jvoTV54nXw
+https://github.com/curran/screencasts/tree/gh-pages/introToD3
